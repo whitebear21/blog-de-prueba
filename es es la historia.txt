@@ -3,5 +3,3 @@ es es la historia
 comenzando con el curso el dia 13/10/2022
 
 estas son las primeras pruebas  de git y github
-
-hola
