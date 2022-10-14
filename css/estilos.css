@@ -1,7 +1,23 @@
 body
 {
-    background-color: rgb(58, 58, 58);
-    color: rgb(96, 255, 4);
+    
+    background-color: rgba(245, 228, 192, 0.863);
+    color: rgb(0, 0, 0);
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+}
+#container
+{
+    width: 50%;
+    padding: 1em;
+    text-align: center;
+    border: 3px solid rgb(190, 34, 34);
+    margin: 0 auto;
+}
+
+#container h1
+
+{
+font-size: 20px;
 }
